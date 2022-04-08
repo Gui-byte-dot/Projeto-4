@@ -1,0 +1,23 @@
+body{
+    background-color: #EEF9BF;
+    ;
+}
+.parrot{
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 56px;
+    font-family: 'Roboto', sans-serif;
+    color: #75B79E;
+    display: flex;
+    justify-content: center;
+    line-height: 65.63px;;
+
+    
+}
+.front{
+    width:100%;
+    background-color: #A7E9AF;
+    border-radius: 5px;
+
+
+}
